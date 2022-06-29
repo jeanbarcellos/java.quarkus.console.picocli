@@ -29,6 +29,8 @@
   </dependencyManagement>
 
   <dependencies>
+
+    <!-- DEPENDENCIAS PARA COMPILACAO E RUNTIME -->
     <dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-arc</artifactId>
